@@ -1,4 +1,4 @@
-PROMPT =se """
+PROMPT = """
 
 1. dari teks asli tolong buatkan penjelasan agar saya lebih mudah memahami
 2. cek jawaban kamu dengan teks asli apakah sesuai dan tidak berbeda makna
