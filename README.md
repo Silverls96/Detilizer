@@ -37,7 +37,7 @@ Before running the script, ensure you have the following:
     ```
 
     -   **`OPENROUTER_API_KEY`**: Your OpenRouter API key.
-    -   **`LLM_MODEL`**: The model you want to use via OpenRouter. You can find a list of available models on the [OpenRouter Models page](https://www.google.com/url?sa=E&source=gmail&q=https://openrouter.ai/docs/models). `deepseek/deepseek-chat` is used as an example, but you can choose others like `openai/gpt-3.5-turbo`, `anthropic/claude-v1.2`, etc.
+    -   **`LLM_MODEL`**: The model you want to use via OpenRouter. You can find a list of available models on the [OpenRouter Models page](https://www.google.com/url?sa=E&source=gmail&q=https://openrouter.ai/docs/models). `deepseek/deepseek-r1-zero:free` is used as an example, but you can choose others like `openai/o3-mini`, `anthropic/claude-3-5-sonnet-20240620`, etc.
     -   **`FILE` (Optional)**: By default, the script looks for `input.txt`. If you want to process a different file, you can specify its name here (e.g., `FILE=my_document.txt`).
 
 3.  **Run the `run_script.bat` batch file.** This script will:
